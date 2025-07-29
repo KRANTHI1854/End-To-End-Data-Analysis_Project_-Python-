@@ -19,6 +19,18 @@ This project focuses on analyzing the performance of a retail Superstore using a
 | 3️⃣ | **SQL (MySQL)** | Structured Querying, Joins, Aggregate Calculations, Time-Series Analysis, Data Prep for BI |
 | 4️⃣ | **Power BI** | Dashboard Design, Visual Insights, KPI Cards, DAX Measures, Drilldowns, Filters, Page Navigation |
 
+## 🧩 Project Pipeline – End-to-End Data Analytics Workflow
+
+| 🔢 Step | 🚀 Tool Used            | 🧠 Role & Outcome Description |
+|--------|-------------------------|-------------------------------|
+| 1️⃣     | **Excel**               | ✅ **Initial Data Exploration** – Performed quick error spotting, null value checks, data type inspections, and early trends detection. Marked business red flags and irrelevant fields for removal. |
+| 2️⃣     | **Python (Jupyter)**    | 🔬 **Advanced Data Preprocessing & EDA** – Cleaned data using pandas, performed outlier treatment, engineered features, generated key KPIs, and applied statistical models (Correlation Matrix, ANOVA, Distribution curves) to extract actionable insights. |
+| 3️⃣     | **SQL (MySQL)**         | 📊 **Structured Querying & Transformation** – Used complex joins, subqueries, window functions, aggregation, and time-series breakdowns to shape the dataset for downstream BI tools and stakeholder reporting. |
+| 4️⃣     | **Power BI**            | 📈 **Interactive Dashboarding** – Developed executive dashboards with dynamic DAX measures, slicers, drill-throughs, navigation buttons, KPI cards, and visual storytelling layers to present insights clearly for business decisions. |
+
+🧠 **Note**: Each step was **interconnected** to simulate a **real-time enterprise pipeline**, showing ownership across multiple tools and technologies.
+
+
 ---
 
 ## 📊 Project Workflow
@@ -287,10 +299,6 @@ This Power BI dashboard delivers **actionable business insights** across 5 profe
 - Direct SQL connection using `superstore_analysis.sql` file
 - Dynamic SQL queries ensure real-time sync with dashboards
 - Avoided SQL Views to maintain drag-and-drop flexibility in visuals
-
-
-
-📂 _File located in `/PowerBI/superstore_dashboard.pbix`._
 
 ## 📌 Key Insights
 
