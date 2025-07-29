@@ -21,6 +21,17 @@ This project focuses on analyzing the performance of a retail Superstore using a
 
 ---
 
+## 🧩 Project Pipeline
+
+| Step | Tool | Description |
+|------|------|-------------|
+| 1️⃣ | **Excel** | Initial Data Understanding, Error Spotting, Null Check, and Pre-cleaning |
+| 2️⃣ | **Python (Jupyter)** | Data Cleaning, EDA, KPI Generation, Statistical Analysis (ANOVA, Correlation, Distribution) |
+| 3️⃣ | **SQL (MySQL)** | Structured Querying, Joins, Aggregate Calculations, Time-Series Analysis, Data Prep for BI |
+| 4️⃣ | **Power BI** | Dashboard Design, Visual Insights, KPI Cards, DAX Measures, Drilldowns, Filters, Page Navigation |
+
+---
+
 ## 📊 Project Workflow
 
 
