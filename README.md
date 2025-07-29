@@ -10,17 +10,6 @@ This project focuses on analyzing the performance of a retail Superstore using a
 
 ---
 
-## 🔧 Tools & Technologies Used
-
-| Tool         | Purpose                                      |
-|--------------|----------------------------------------------|
-| Excel        | Initial data inspection and cleaning         |
-| MySQL        | Advanced data transformation and querying    |
-| Python (Pandas, Matplotlib, Seaborn) | EDA, KPIs, statistics, and visual storytelling |
-| Power BI     | Interactive dashboard creation using DAX     |
-
----
-
 ## 🧩 Project Pipeline
 
 | Step | Tool | Description |
