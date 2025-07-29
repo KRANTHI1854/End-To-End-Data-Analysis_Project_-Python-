@@ -117,14 +117,11 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Key drivers of profit margin
   - Statistically significant segment/category/region behaviors
   - Seasonal performance trends
-    📁 Cleaned Dataset :Python Analysis Code(https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/superstore_data_insights.ipynb)
+    📁 [🐍 Python Analysis Code](https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/superstore_data_insights.ipynb)
 
 ---
 
 ### 3. 🛢️ SQL – Business Querying and Aggregation
-
-#### 📄 Script:
-- `superstore_analysis.sql`
 
 ---
 
@@ -165,7 +162,8 @@ Perform professional-grade business analysis directly in SQL to extract insights
 - Flagged orders where:
   ```sql
   discount > 0.3
-#### 📁 Sql Data File:
+🛢️ [SQL Business Queries](https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/sql%20codes)
+
 ---
 
 ### 4. 📊 Power BI – Interactive Dashboards
@@ -278,7 +276,8 @@ This Power BI dashboard delivers **actionable business insights** across 5 profe
 - 🔁 **Repeat Customers**: Key to long-term profitability
 - 🛒 **Average Order Value**: Consistent in Q2–Q4 but dips in Q1
 
-#### 📁 Power BI File:
+#### 📁 
+[Power BI Dashboard File](https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/super_store_analysis.pbix)
 
 ---
 
