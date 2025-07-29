@@ -117,7 +117,7 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Key drivers of profit margin
   - Statistically significant segment/category/region behaviors
   - Seasonal performance trends
-  - 🔹 <a href="https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/superstore_data_insights.ipynb">superstore_data_insights.ipynb</a> (Python Analysis Notebook)
+    📁 Cleaned Dataset :Python Analysis Code(https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/superstore_data_insights.ipynb)
 
 ---
 
