@@ -4,8 +4,6 @@
 
 ---
 
-## 📁 Project Overview
-
 This project focuses on analyzing the performance of a retail Superstore using an end-to-end data analytics approach. I have applied **Excel, SQL, Python, and Power BI** to clean, transform, analyze, and visualize the data. The goal is to deliver key business insights that support decision-making for areas such as sales growth, regional performance, customer behavior, shipping efficiency, and product profitability.
 
 ---
@@ -19,16 +17,6 @@ This project focuses on analyzing the performance of a retail Superstore using a
 | 3️⃣ | **SQL (MySQL)** | Structured Querying, Joins, Aggregate Calculations, Time-Series Analysis, Data Prep for BI |
 | 4️⃣ | **Power BI** | Dashboard Design, Visual Insights, KPI Cards, DAX Measures, Drilldowns, Filters, Page Navigation |
 
-## 🧩 Project Pipeline – End-to-End Data Analytics Workflow
-
-| 🔢 Step | 🚀 Tool Used            | 🧠 Role & Outcome Description |
-|--------|-------------------------|-------------------------------|
-| 1️⃣     | **Excel**               | ✅ **Initial Data Exploration** – Performed quick error spotting, null value checks, data type inspections, and early trends detection. Marked business red flags and irrelevant fields for removal. |
-| 2️⃣     | **Python (Jupyter)**    | 🔬 **Advanced Data Preprocessing & EDA** – Cleaned data using pandas, performed outlier treatment, engineered features, generated key KPIs, and applied statistical models (Correlation Matrix, ANOVA, Distribution curves) to extract actionable insights. |
-| 3️⃣     | **SQL (MySQL)**         | 📊 **Structured Querying & Transformation** – Used complex joins, subqueries, window functions, aggregation, and time-series breakdowns to shape the dataset for downstream BI tools and stakeholder reporting. |
-| 4️⃣     | **Power BI**            | 📈 **Interactive Dashboarding** – Developed executive dashboards with dynamic DAX measures, slicers, drill-throughs, navigation buttons, KPI cards, and visual storytelling layers to present insights clearly for business decisions. |
-
-🧠 **Note**: Each step was **interconnected** to simulate a **real-time enterprise pipeline**, showing ownership across multiple tools and technologies.
 
 
 ---
@@ -52,14 +40,11 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Unnecessary columns
 
 > Cleaned version exported as `cleaned superstore data.csv`
-
+#### 📁 Raw Data File :
+#### 📁 Cleaned Data File :
 ---
 
 ### 2. 🐍 Python – ETL + EDA + Statistical Analysis
-
-#### 📁 Scripts:
-- `1_data_cleaning.py`
-- `2_statistical_analysis.py`
 
 ---
 
@@ -127,28 +112,9 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Key drivers of profit margin
   - Statistically significant segment/category/region behaviors
   - Seasonal performance trends
-
+#### 📁 Pythyon data File:
 ---
 
-📂 _All scripts are available under `/Python/` folder._
-
-
-### 3. 🛢️ SQL – Business Querying and Aggregation
-
-Script:  
-- `superstore_analysis.sql`
-
-Highlights:
-- Data cleaning in SQL (TRIM, CAST, REPLACE)
-- Grouped aggregations (Sales, Profit, Quantity)
-- Window functions (ROW_NUMBER, RANK)
-- Profitability by Segment, State, and Region
-- Sales trends by Year, Month, and Category
-- High-discount detection
-
-> 📌 **Used for direct connection to Power BI**
-
----
 ### 3. 🛢️ SQL – Business Querying and Aggregation
 
 #### 📄 Script:
@@ -193,12 +159,10 @@ Perform professional-grade business analysis directly in SQL to extract insights
 - Flagged orders where:
   ```sql
   discount > 0.3
+#### 📁 Sql Data File:
 ---
 
 ### 4. 📊 Power BI – Interactive Dashboards
-
-#### 📁 File:
-- `superstore_dashboard.pbix`
 
 ---
 
@@ -307,6 +271,8 @@ This Power BI dashboard delivers **actionable business insights** across 5 profe
 - 🎯 **High Discounts ≠ High Profit**: Inverse correlation observed
 - 🔁 **Repeat Customers**: Key to long-term profitability
 - 🛒 **Average Order Value**: Consistent in Q2–Q4 but dips in Q1
+
+#### 📁 Power BI File:
 
 ---
 
