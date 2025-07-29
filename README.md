@@ -40,8 +40,13 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Unnecessary columns
 
 > Cleaned version exported as `cleaned superstore data.csv`
-#### 📁 Raw Data File :
-#### 📁 Cleaned Data File :
+ #### 📁 Raw Dataset : 
+<a href="https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/supper%20store%20data%20set.csv">supper store data set.csv</a>
+
+#### 📁 Cleaned Dataset : 
+<a href="https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/cleaned_superstore_data.csv">cleaned_superstore_data.csv</a>
+
+
 ---
 
 ### 2. 🐍 Python – ETL + EDA + Statistical Analysis
@@ -112,7 +117,8 @@ This project focuses on analyzing the performance of a retail Superstore using a
   - Key drivers of profit margin
   - Statistically significant segment/category/region behaviors
   - Seasonal performance trends
-#### 📁 Pythyon data File:
+  - 🔹 <a href="https://github.com/KRANTHI1854/End-To-End-Data-Analysis_Project_-Python-/blob/main/superstore_data_insights.ipynb">superstore_data_insights.ipynb</a> (Python Analysis Notebook)
+
 ---
 
 ### 3. 🛢️ SQL – Business Querying and Aggregation
